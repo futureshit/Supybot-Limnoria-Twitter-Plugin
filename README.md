@@ -1,3 +1,15 @@
+# Supybot-Limnoria-Twitter-Plugin
+tweaked version of https://github.com/ProgVal/Supybot-plugins/tree/master/Twitter
+
++ !postm http://i.imgur.com/blabla.png - posts images
++ auto post topic content (hashtags) and timestamp in #demo channel
++ posting to diaspora with https://github.com/marekjm/diaspy
++ ...
+
+bigthx2kgl
+
+## Original README.md
+
 Advanced Twitter plugin for Supybot, with capabilities handling, and
 per-channel user account.
 
